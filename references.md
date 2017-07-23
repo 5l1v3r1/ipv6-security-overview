@@ -10,3 +10,8 @@ Note: too keep this short we will include only references for current, as in not
 
 NOTE: Books become old, including this one. Dont go buying all these books, this is not recommended.
 
+IPv6 Security
+Scott Hogg and Eric Vyncke
+Copyright© 2009 Cisco Systems, Inc.
+ISBN-13: 978-1-58705-594-2 (pbk.)
+ISBN-10: 1-58705-594-5
