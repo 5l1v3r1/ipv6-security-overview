@@ -10,10 +10,10 @@ Specialised toolkits and packages
 * SI6 Networks' IPv6 Toolkit
   A security assessment and troubleshooting tool for the IPv6 protocols [https://www.si6networks.com/tools/ipv6toolkit/](https://www.si6networks.com/tools/ipv6toolkit/) 
 
-Unknown by me, but looks interesting
+Untested or more unknown by me, but looks interesting:
 
 * [https://github.com/ElevenPaths/EvilFOCA/](https://github.com/ElevenPaths/EvilFOCA/)
-* Chiron is a multi-threaded tool written in Python and based on [Scapy](http://bb.secdev.org/scapy/overview). Available from https://www.secfu.net/tools-scripts/
+* Chiron is a multi-threaded tool written in Python and based on [Scapy](http://bb.secdev.org/scapy/overview). Available from [https://www.secfu.net/tools-scripts/](https://www.secfu.net/tools-scripts/)
 
 Regular pentesting and security tools with IPv6 support:
 
