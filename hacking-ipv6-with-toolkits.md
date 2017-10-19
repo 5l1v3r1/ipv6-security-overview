@@ -12,9 +12,8 @@ Specialised toolkits and packages
 
 Unknown by me, but looks interesting
 
-* https://github.com/ElevenPaths/EvilFOCA/
-
-
+* [https://github.com/ElevenPaths/EvilFOCA/](https://github.com/ElevenPaths/EvilFOCA/)
+* Chiron is a multi-threaded tool written in Python and based on [Scapy](http://bb.secdev.org/scapy/overview). Available from https://www.secfu.net/tools-scripts/
 
 Regular pentesting and security tools with IPv6 support:
 
