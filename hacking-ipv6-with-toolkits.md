@@ -2,7 +2,7 @@
 
 A number of IPv6 security toolkits exist, and should be used for checking your networks and devices.
 
-Overview of main IPv6 hacking tools, note this is a subjective list. Feel free to suggest tools to me.
+Overview of main IPv6 hacking tools, note this is a subjective list. Feel free to suggest tools to me. It is highly recommended to install a small scale lab with a few virtualized devices, and try out running some of these tools.
 
 Specialised toolkits and packages
 
@@ -10,7 +10,11 @@ Specialised toolkits and packages
 * SI6 Networks' IPv6 Toolkit
   A security assessment and troubleshooting tool for the IPv6 protocols [https://www.si6networks.com/tools/ipv6toolkit/](https://www.si6networks.com/tools/ipv6toolkit/) 
 
-It is highly recommended to install a small scale lab with a few virtualized devices, and try out running some of these tools.
+Unknown by me, but looks interesting
+
+* https://github.com/ElevenPaths/EvilFOCA/
+
+
 
 Regular pentesting and security tools with IPv6 support:
 
