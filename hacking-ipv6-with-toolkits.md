@@ -20,6 +20,11 @@ Regular pentesting and security tools with IPv6 support:
 * Nmap \("Network Mapper"\) port scanner and accompanying software Nping, Ndiff, Ncat [https://nmap.org/](https://nmap.org/) has support for IPv6. Due to most subnets being /64 it cannot perform a full subnet scan, just too many IPs.
 * Metasploit Framework, a tool for developing and executing exploit code against a remote target machine.
 
+Other toolkits with some tools supporting IPv6
+
+* Scapy - general packet manipulation toolkit 
+* https://www.ernw.de/research/loki.html
+
 ## Example Metasploit IPv6
 
 It is recommended to try out Metasploit and doing a search show IPv6 support and modules.
